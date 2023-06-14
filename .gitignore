@@ -73,3 +73,6 @@ crashlytics-build.properties
 TestSerializeJSON/Library/
 TestSerializeJSON/Logs/AssetImportWorker0.log
 TestSerializeJSON/Logs/
+TestSerializeJSON/.idea/
+TestSerializeJSON/obj/
+TestSerializeJSON/
